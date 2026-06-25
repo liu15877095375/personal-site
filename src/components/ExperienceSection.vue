@@ -33,11 +33,11 @@ const experiences = [
     role: '个⼈⽹站',
     company: '独⽴开发',
     period: '2026-06 〜 至今',
-    description: '通过CC Switch接⼊DeepSeek API，以Claude Code为主要AI⼯具，开发了个⼈介绍⽹站并部署到阿⾥云服务器。',
+    description: '通过CC Switch接⼊DeepSeek API，以Claude Code为主要AI⼯具，开发了个⼈介绍⽹站并部署到GitHub Pages。',
     highlights: [
-      '⽹站地址：https://xxxx',
+      '⽹站地址：https://liu15877095375.github.io/personal-site/',
     ],
-    tags: ['Claude Code', 'DeepSeek API', 'Vue3', 'Tailwind CSS'],
+    tags: ['Claude Code', 'DeepSeek API', 'Vue3', 'GitHub Pages'],
   },
 ]
 </script>

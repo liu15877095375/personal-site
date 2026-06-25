@@ -17,9 +17,9 @@ onMounted(() => {
 })
 
 const certificates = [
-  { src: '/1.png' },
-  { src: '/2.jpg' },
-  { src: '/3.png' },
+  { src: import.meta.env.BASE_URL + '1.png' },
+  { src: import.meta.env.BASE_URL + '2.jpg' },
+  { src: import.meta.env.BASE_URL + '3.png' },
 ]
 
 const selected = ref<number | null>(null)
